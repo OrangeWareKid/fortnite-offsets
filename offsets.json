@@ -1,6 +1,6 @@
 {
    "offsets":{
-      "uworld":"0x10C628D8",
+      "uworld":"0x11E88988",
       "Gameinstance":"0x1d8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
@@ -22,11 +22,11 @@
       "IsDBNO":"0x93a",
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x1c0",
-      "BoneArray":"0x598",
+      "BoneArray":"0x5b0",
       "Velocity":"0x168",
       "PawnPrivate":"0x308",
-      "PlayerArray":"0x2a0",
-      "BONE_ARRAY_CACHE":"0x5E0",
+      "PlayerArray":"0x2A8",
+      "BONE_ARRAY_CACHE":"0x5F8",
       "relativelocation":"0x120",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
